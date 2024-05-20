@@ -1,0 +1,2 @@
+# Enhancing-Medical-Imaging-Model-Interpretability-with-Synthetic-Data-and-Explainable-AI-Techniques
+This research involves creating synthetic medical images with random anomalies, training a CNN to detect these anomalies, and using LIME and SHAP for model interpretability. The goal is to enhance transparency and trustworthiness in medical imaging by understanding the model's decision-making process.
